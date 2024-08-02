@@ -1,0 +1,8 @@
+.model{
+    width: 200px;
+    height: 350px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    border-radius: 20px;
+}
